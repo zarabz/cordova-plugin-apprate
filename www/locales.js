@@ -191,11 +191,11 @@ Locales.addLocale(new Locale({
 
 Locales.addLocale(new Locale({
   language: 'fa',
-  title: "نرخ %@",
-  message: "اگر شما با استفاده از %@ لذت بردن از، اشکالی ندارد یک لحظه به امتیاز دهی هستند؟ آن را نمی خواهد بیشتر از یک دقیقه طول بکشد. با تشکر از حمایت شما!",
+  title: "ستاره برای اپ %@",
+  message: "اگر از %@ لذت بردید، آیا متمایل هستید به آن ستاره بدهید؟ بیشتر از یک دقیقه طول نمیکشد. با تشکر از حمایت شما!", 
   cancelButtonLabel: "نه، با تشکر",
-  laterButtonLabel: "یادآوری من بعد",
-  rateButtonLabel: "آن را دوست ندارم حالا"
+  laterButtonLabel: "بعدا یادآوری کن",
+  rateButtonLabel: "باشه بهش ستارده میدهم"
 }));
 
 Locales.addLocale(new Locale({
